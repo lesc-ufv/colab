@@ -4,4 +4,4 @@ Minicurso [Programação em GPU no Ambiente Google Colaboratory](https://colab.r
 
 Minicurso Google Colab no Ensino de Sistemas Embarcados SBESC 2020 (a ser divulgado em breve)
 
-Ferramenta Risc Verliog
+Ferramenta [Risc Verliog](http://riscverilog.ufv.br/)
